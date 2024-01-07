@@ -4,6 +4,6 @@
 
 <h3 align="center">🫣 Little Bit About Me 🫣</h3>
 
-<p align="center">🤖 Started my programming at 18 🤖</p>
-<p align="center">🦫 Pursuing a Bachelor's Degree at Oregon State University in Computer Science 🦫</p>
-<p align="center">💼 Working at HP Inc as a NOC Support Technician 💼</p>
+<p>🤖 Started my programming at 18 🤖</p>
+<p>🦫 Pursuing a Bachelor's Degree at Oregon State University in Computer Science 🦫</p>
+<p>💼 Working at HP Inc as a NOC Support Technician 💼</p>
