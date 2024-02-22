@@ -6,4 +6,4 @@
 
 <p>🤖 Started programming at 18 🤖</p>
 <p>🦫 Pursuing a Bachelor's Degree at Oregon State University in Computer Science 🦫</p>
-<p>💼 Working at HP Inc as a NOC Support Technician 💼</p>
+<p>💼 Working at HP Inc as a NOC Technician 💼</p>
